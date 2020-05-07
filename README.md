@@ -1,1 +1,2 @@
 # junopass-go
+# django-junopass
